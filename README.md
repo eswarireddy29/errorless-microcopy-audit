@@ -26,4 +26,4 @@ using plain language, built a reusable Error Message Playbook.
 Figma, Notion, Google Sheets
 
 ## Status
-🚧 Figma file in progress — link will be added soon
+https://www.figma.com/design/Tk8R5Nim7tl8jornw2spvS/Untitled?node-id=0-1&t=ZGSIVLZOo81UO6tO-1
